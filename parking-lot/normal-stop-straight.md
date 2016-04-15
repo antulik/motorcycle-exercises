@@ -1,8 +1,8 @@
 ### Normal Stop, Straight
 
-![](images/parking-6.svg)
-
 ## Directions
+
+![](images/parking-6.svg)
 
 Practicing this exercise will help you stop smoothly, such as for stoplights and stop signs.
 Accelerate straight ahead across the parking lot between 15-20 mph (shift to second gear.) Begin to slow down and downshift at the first marker. Try to come to a smooth non-skidding stop with your front tire next to the last marker.

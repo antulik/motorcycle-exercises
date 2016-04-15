@@ -1,8 +1,8 @@
 # Quick Stop, Straight
 
-![](images/parking-7.svg)
-
 ## Directions
+
+![](images/parking-7.svg)
 
 Practicing this exercise will help you stop quickly when something suddenly appears in your path.
 Approach marker one, shifting up to second gear. As your front tire passes marker one, roll off the throttle, squeeze in the clutch lever, downshift to first gear and gradually apply both brakes to begin braking. Try to stop before marker two. Practice this at 10 mph, then 15 mph, then 20 mph. Do not exceed 20 mph.

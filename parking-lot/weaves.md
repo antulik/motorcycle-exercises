@@ -1,7 +1,5 @@
 # Weaves
 
-
-
 ## Directions
 Practicing these drills will help you in making quick lane changes in traffic or changes in direction.
 

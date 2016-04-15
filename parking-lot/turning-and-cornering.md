@@ -1,8 +1,9 @@
 # Turning and Cornering
 
-![](images/parking-2.svg)
 
 ## Directions
+
+![](images/parking-2.svg)
 
 Practicing these drills will help you in turning and cornering at higher speeds such as curves on highways and winding roads, especially when the curve is tighter than you anticipated.
 Ride to the left around the oval indicated by markers one, two, three, four, five and six. Adjust your speed and lean angle so that a small throttle opening is held steady through marker one, two and three. Repeat the drill turning to the right.

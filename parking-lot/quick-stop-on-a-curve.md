@@ -1,9 +1,10 @@
 
 # Quick Stop on a Curve
 
+## Directions
+
 ![](images/parking-1.svg)
 
-## Directions
 Practicing this exercise will help you stop quickly when something suddenly appears in your path on a curve. Ride to the outside of the line "A". Start, facing marker one at a distance sufficient enough to increase speed to 10-15 mph. As you reach marker one, turn in the curved path indicated by marker two, three, and four. When your front tire passes marker two, begin braking. Try to stop before marker three. Do this at 10 mph, then 15 mph. Do not exceed 15 mph.
 
 ## Coaching Tips

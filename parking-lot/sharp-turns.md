@@ -3,14 +3,18 @@
 ## Directions
 Practicing these drills will help you to make sharp turns from stoplights or stop signs, pulling out of parking spaces or driveways, and turning into a driveway, and turning into a driveway or onto a narrow street.
 
-![](images/parking-4.svg)
 
 ### Drill 1
+
+![](images/parking-4.svg)
+
 Begin riding straight across the parking lot, increasing speed to approximately 10 mph. Just before reaching the "Begin Turning" Marker, slow down and use both brakes to adjust your speed for making a sharp turn. As you reach the line or marker make a sharp turn (left or right). Finish your turn as close to line "A" as you can without touching it. Remember to accelerate slightly coming out of the turn.
+
+
+### Drill 2
 
 ![](images/parking-5.svg)
 
-### Drill 2
 Start at the marker. Begin making a sharp turn from the starting point. Finish your turn as close to line "A" as you can without hitting it.
 
 

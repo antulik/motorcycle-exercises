@@ -1,8 +1,8 @@
 # Normal Stop on a Curve
 
-![](images/parking-3.svg)
-
 ## Directions
+
+![](images/parking-3.svg)
 
 Practicing this exercise will help you stop smoothly in a curve. Ride to the outside of line "A". As you reach marker one, turn in the curved path indicated by markers two, three, and four. Once you enter the curved path, gradually apply both brakes and downshift. Do not release the clutch. Try to come to a smooth stop with your front tire next to marker four. Do this at 10 mph, then 15 mph.
 
