@@ -11,7 +11,7 @@
     * [Obstacle Swerve](parking-lot/7-obstacle-swerve.md)
     * [Normal Stop on a Curve](parking-lot/8-normal-stop-on-a-curve.md)
     * [Quick Stop on a Curve](parking-lot/9-quick-stop-on-a-curve.md)
-* [Advanced](part2/README.md)
+* [Advanced](advanced/README.md)
     * [90 degree right turn](advanced/90-degree-right-turn.md)
     * [Crazy Eight](advanced/crazy-eight.md)
     * [Intersection](advanced/intersection.md)
