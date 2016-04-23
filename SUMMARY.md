@@ -15,6 +15,7 @@
     * [90 degree right turn](advanced/90-degree-right-turn.md)
     * [Crazy Eight](advanced/crazy-eight.md)
     * [Intersection](advanced/intersection.md)
+    * [Lane Change](advanced/lane-change.md)
     * [The Big "O"](advanced/the-big-o.md)
     * [Tiger Den](advanced/tiger-den.md)
     * [W](advanced/w.md)
