@@ -1,0 +1,3 @@
+# Intersection
+
+![](../images/intersection.svg)
