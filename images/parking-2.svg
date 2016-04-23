@@ -1,17 +1,17 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 3677 2304" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1;">
-    <g transform="matrix(1,0,0,1,-23688,-0)">
-        <g id="parking-7" transform="matrix(2.87248,0,0,2.25,23688,6.25278e-13)">
+<svg width="100%" height="100%" viewBox="0 0 3677 2305" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1;">
+    <g transform="matrix(1,0,0,1,-4015,-110)">
+        <g id="parking-2" transform="matrix(2.87248,0,0,2.25,4015,110.149)">
             <g transform="matrix(2.08676,0,0,5.15206,-116.151,-2349.03)">
                 <g transform="matrix(0.516355,0,0,0.342776,217.275,407.725)">
                     <rect x="676.756" y="269.252" width="4.487" height="305.495" style="fill:black;"/>
                 </g>
                 <g transform="matrix(0.516355,0,0,0.342776,167.974,407.725)">
-                    <rect x="676.757" y="269.252" width="4.487" height="305.495" style="fill:black;"/>
+                    <rect x="676.756" y="269.252" width="4.487" height="305.495" style="fill:black;"/>
                 </g>
                 <g transform="matrix(-2.3627e-16,-0.975331,1.46923,-1.56845e-16,-273.988,1214.63)">
-                    <rect x="678.386" y="270.212" width="1.228" height="303.577" style="fill:black;"/>
+                    <rect x="678.386" y="270.211" width="1.228" height="303.577" style="fill:black;"/>
                 </g>
                 <g transform="matrix(0.516355,0,0,0.342776,118.674,407.725)">
                     <rect x="676.756" y="269.252" width="4.487" height="305.495" style="fill:black;"/>
@@ -23,7 +23,7 @@
                     <rect x="676.756" y="269.252" width="4.487" height="305.495" style="fill:black;"/>
                 </g>
                 <g transform="matrix(0.516355,0,0,0.342776,-29.2287,407.725)">
-                    <rect x="676.757" y="269.252" width="4.487" height="305.495" style="fill:black;"/>
+                    <rect x="676.756" y="269.252" width="4.487" height="305.495" style="fill:black;"/>
                 </g>
                 <g transform="matrix(0.516355,0,0,0.342776,-78.5295,407.725)">
                     <rect x="676.756" y="269.252" width="4.487" height="305.495" style="fill:black;"/>
@@ -49,6 +49,12 @@
             </g>
             <g transform="matrix(3.46907e-17,0.156342,-0.188917,6.83216e-17,304.965,-2996.88)">
                 <path d="M21912,965L22052,1258L21772,1258L21912,965Z" style="fill:black;"/>
+            </g>
+            <g transform="matrix(0.348131,0,0,0.444444,-12.8283,-44.1553)">
+                <text x="2253.03px" y="1394.66px" style="font-family:'ArialMT';font-size:138.061px;fill:black;">1</text>
+            </g>
+            <g transform="matrix(0.348131,0,0,0.444444,-15.9615,-17.984)">
+                <text x="2939.89px" y="1335.44px" style="font-family:'ArialMT';font-size:138.061px;fill:black;">2</text>
             </g>
         </g>
     </g>
