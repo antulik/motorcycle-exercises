@@ -21,6 +21,7 @@
     * [Maze](advanced/maze.md)
     * [Serpentine](advanced/serpentine.md)
     * [Sickle](advanced/sickle.md)
+    * [Snowman](advanced/snowman.md)
     * [The Big "O"](advanced/the-big-o.md)
     * [Tiger Den](advanced/tiger-den.md)
     * [W](advanced/w.md)
