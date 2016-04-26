@@ -1,0 +1,3 @@
+# Sickle
+
+![](../images/sickle.svg)
