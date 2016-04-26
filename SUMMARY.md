@@ -17,6 +17,8 @@
     * [Crazy Eight](advanced/crazy-eight.md)
     * [Intersection](advanced/intersection.md)
     * [Lane Change](advanced/lane-change.md)
+    * [Little General](advanced/little-general.md)
+    * [Maze](advanced/maze.md)
     * [Serpentine](advanced/serpentine.md)
     * [Sickle](advanced/sickle.md)
     * [The Big "O"](advanced/the-big-o.md)

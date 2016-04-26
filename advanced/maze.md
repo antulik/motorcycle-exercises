@@ -1,0 +1,3 @@
+# Maze
+
+![](../images/maze.svg)
