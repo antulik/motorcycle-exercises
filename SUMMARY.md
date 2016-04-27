@@ -15,6 +15,7 @@
     * [90 degree right turn](advanced/90-degree-right-turn.md)
     * [Cone Weave](advanced/cone-weave.md)
     * [Crazy Eight](advanced/crazy-eight.md)
+    * [Crazy Horse](advanced/crazy-horse.md)
     * [Intersection](advanced/intersection.md)
     * [Lane Change](advanced/lane-change.md)
     * [Little General](advanced/little-general.md)
