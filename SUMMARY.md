@@ -1,5 +1,6 @@
 # Summary
 
+* [What to bring](info/what-to-bring.md)
 * [Parking Lot](parking-lot/README.md)
     * [Normal Stop in a Straight Line](parking-lot/1-normal-stop-straight.md)
     * [Quick Stop in a Straight Line](parking-lot/2-quick-stop-straight.md)
