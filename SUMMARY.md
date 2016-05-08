@@ -19,7 +19,7 @@
     * [Figure 8](simple/figure-8.md)
     * [Line Change](simple/lane-change.md)
     * [Slow Ride](simple/slow-ride.md)
-* [Advanced](advanced/README.md)
+* Advanced
     * [Crazy Eight](advanced/crazy-eight.md)
     * [Crazy Horse](advanced/crazy-horse.md)
     * [Intersection](advanced/intersection.md)
