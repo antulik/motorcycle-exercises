@@ -7,3 +7,8 @@ This book contains motorcycle riding exercises compiled into a single collection
 
 Any feedback or contributions are welcome. Please visit [discussions](https://www.gitbook.com/book/antulik/motorcycle-exercises/discussions) page
 
+
+
+# Links
+
+- [Q-Ride Competency Standards](https://publications.qld.gov.au/storage/f/2014-01-29T00%3A31%3A10.768Z/competencystandards.pdf)

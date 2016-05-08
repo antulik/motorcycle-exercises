@@ -7,7 +7,7 @@ Practicing this exercise will help you swerve to avoid a potential hazard.
 
 ![](../images/parking-7.svg)
 
-With about 100' lead-in, approach the first pair of markers. As you reach the markers you should be going **10-15 mph**. As your front tire passes the first pair of markers, make a swerve (right or left) avoiding the imaginary barrier or obstacle. Make sure you’ve decided on which direction you intend to go before starting the exercise. Do not stop or apply brakes while performing the swerve.
+With about 100' lead-in, approach the first pair of markers. As you reach the markers you should be going **15-25 km/h**. As your front tire passes the first pair of markers, make a swerve (right or left) avoiding the imaginary barrier or obstacle. Make sure you’ve decided on which direction you intend to go before starting the exercise. Do not stop or apply brakes while performing the swerve.
 
 
 ## Coaching Tips

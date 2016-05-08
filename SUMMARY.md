@@ -1,6 +1,7 @@
 # Summary
 
 * [What to bring](info/what-to-bring.md)
+* [Grid](info/grid.md)
 * [Parking Lot](parking-lot/README.md)
     * [Normal Stop in a Straight Line](parking-lot/1-normal-stop-straight.md)
     * [Quick Stop in a Straight Line](parking-lot/2-quick-stop-straight.md)
@@ -12,13 +13,16 @@
     * [Obstacle Swerve](parking-lot/7-obstacle-swerve.md)
     * [Normal Stop on a Curve](parking-lot/8-normal-stop-on-a-curve.md)
     * [Quick Stop on a Curve](parking-lot/9-quick-stop-on-a-curve.md)
+* Simple
+    * [90 degree right turn](simple/90-degree-right-turn.md)
+    * [Cone Weave](simple/cone-weave.md)
+    * [Figure 8](simple/figure-8.md)
+    * [Line Change](simple/lane-change.md)
+    * [Slow Ride](simple/slow-ride.md)
 * [Advanced](advanced/README.md)
-    * [90 degree right turn](advanced/90-degree-right-turn.md)
-    * [Cone Weave](advanced/cone-weave.md)
     * [Crazy Eight](advanced/crazy-eight.md)
     * [Crazy Horse](advanced/crazy-horse.md)
     * [Intersection](advanced/intersection.md)
-    * [Lane Change](advanced/lane-change.md)
     * [Little General](advanced/little-general.md)
     * [Maze](advanced/maze.md)
     * [Serpentine](advanced/serpentine.md)

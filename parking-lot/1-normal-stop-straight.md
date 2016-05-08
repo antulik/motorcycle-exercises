@@ -7,7 +7,7 @@ such as for stoplights and stop signs.
 
 ![](../images/parking-1.svg)
 
-Accelerate straight ahead across the parking lot between **15-20 mph** (shift to second gear). Begin to slow down and downshift at the first marker. Try to come to a smooth nonskidding stop with your front tire next to the last marker.
+Accelerate straight ahead across the parking lot between **25-30 km/h** (shift to second gear). Begin to slow down and downshift at the first marker. Try to come to a smooth non-skidding stop with your front tire next to the last marker.
 
 ## Coaching Tips
 

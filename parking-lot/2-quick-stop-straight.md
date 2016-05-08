@@ -6,7 +6,7 @@ Practicing this exercise will help you stop quickly when something suddenly appe
 
 ![](../images/parking-2.svg)
 
-Approach marker 1, upshifting to second gear. As your front tire passes marker 1, downshift and begin braking. Try to stop before marker 2. Practice this at **10 mph**, then **15 mph**, then **20 mph**. **Do not exceed 20 mph**.
+Approach marker 1, upshifting to second gear. As your front tire passes marker 1, downshift and begin braking. Try to stop before marker 2. Practice this at **20 km/h**, then **25 km/h**, then **30 km/h**.
 
 
 ## Coaching Tips
@@ -26,3 +26,8 @@ Approach marker 1, upshifting to second gear. As your front tire passes marker 1
     > Sit straight on seat and **do not turn handlebars**, look straight ahead. It is okay to lock the **rear** wheel if the motorcycle is going **straight**.
 3. Engine over revs when using the front brake.
     > Keep and wrist in a flat position when you grip the throttle. This will aid the throttle to brake lever transition and reduce inadvertent throttle roll-on. Close the throttle before braking. Avoid pulling back on the throttle when applying pressure to the front brake. Squeeze the front brake with four fingers.
+
+## Q-Ride
+
+Braking to a stop from approximately 40 km/h, within a maximum
+distance of 18 metres including reaction time
