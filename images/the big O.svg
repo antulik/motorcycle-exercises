@@ -1,430 +1,499 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 2010 1311" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-miterlimit:1;">
+<svg width="100%" height="100%" viewBox="0 0 1800 1301" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1;">
     <g transform="matrix(1,0,0,1,-4380,-3086)">
-        <g id="the big O" transform="matrix(1.57031,0,0,1.2793,4380,3086.34)">
+        <g id="the big O" transform="matrix(1.40625,0,0,1.26953,4380,3086.34)">
             <clipPath id="_clip1">
                 <rect x="0" y="0" width="1280" height="1024"/>
             </clipPath>
             <g clip-path="url(#_clip1)">
-                <g transform="matrix(0.636816,0,5.02359e-31,0.781679,-4565.97,-2734.74)">
-                    <g id="vertical lines">
-                        <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                <g id="grid" transform="matrix(0.711111,0,0,0.787692,-19932.1,-3784.77)">
+                    <g id="bold lines">
+                        <path d="M28729.5,4904.89L28729.5,7704.89" style="fill:none;stroke-width:1px;stroke:black;stroke-opacity:0.298039;"/>
+                        <g transform="matrix(0.962963,0,0,1,1041.83,0)">
+                            <path d="M28129.5,5504.89L30829.5,5504.89" style="fill:none;stroke-width:1.02px;stroke:black;stroke-opacity:0.298039;"/>
+                        </g>
+                        <path d="M29229.5,4904.89L29229.5,7704.89" style="fill:none;stroke-width:1px;stroke:black;stroke-opacity:0.298039;"/>
+                        <path d="M29729.5,4904.89L29729.5,7704.89" style="fill:none;stroke-width:1px;stroke:black;stroke-opacity:0.298039;"/>
+                        <g transform="matrix(0.962963,0,0,1,1041.83,0)">
+                            <path d="M28129.5,6004.89L30829.5,6004.89" style="fill:none;stroke-width:1.02px;stroke:black;stroke-opacity:0.298039;"/>
+                        </g>
+                        <g transform="matrix(0.962963,0,0,1,1041.83,0)">
+                            <path d="M28129.5,5004.89L30829.5,5004.89" style="fill:none;stroke-width:1.02px;stroke:black;stroke-opacity:0.298039;"/>
+                        </g>
+                        <path d="M28229.5,7704.89L28229.5,4904.89" style="fill:none;stroke-width:1px;stroke:black;stroke-opacity:0.298039;"/>
+                    </g>
+                    <g id="vertical lines" transform="matrix(1,0,0,1.75,20859.5,-1392.56)">
+                        <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         <g transform="matrix(1,0,0,1,600,9.09495e-13)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,1200,-9.09495e-13)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
-                        </g>
-                        <g transform="matrix(1,0,0,1,1800,-9.09495e-13)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,200,4.54747e-13)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,800,1.36424e-12)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,1400,-4.54747e-13)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,400,-4.54747e-13)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,1000,4.54747e-13)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,1600,-1.36424e-12)">
-                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3598.54L7270,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
-                        <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                        <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         <g transform="matrix(1,0,0,1,600,9.37916e-13)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,1200,-8.81073e-13)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
-                        </g>
-                        <g transform="matrix(1,0,0,1,1800,-8.81073e-13)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,200,4.83169e-13)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,800,1.39266e-12)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,1400,-4.26326e-13)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,400,-4.26326e-13)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,1000,4.83169e-13)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,1600,-1.33582e-12)">
-                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:1px;stroke:rgb(179,179,179);"/>
+                            <path d="M7370,3598.54L7370,5198.54" style="fill:none;stroke-width:0.7px;stroke-linejoin:miter;stroke-dasharray:7.02,30.87,1.4,30.87;stroke-dashoffset:3.51;stroke:black;"/>
                         </g>
                     </g>
-                    <g id="horizontal lines" transform="matrix(1,0,0,1,1.81899e-12,-100)">
-                        <path d="M7270,3698.54L9970,3698.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                    <g id="horizontal lines" transform="matrix(0.962963,0,0,1,21128.8,1206.35)">
+                        <path d="M7270,3698.54L9970,3698.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         <g transform="matrix(1,0,0,1,0,400)">
-                            <path d="M7270,3698.54L9970,3698.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3698.54L9970,3698.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,0,800)">
-                            <path d="M7270,3698.54L9970,3698.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3698.54L9970,3698.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,0,1200)">
-                            <path d="M7270,3698.54L9970,3698.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3698.54L9970,3698.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
-                        <path d="M9970,3798.54L7270,3798.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                        <path d="M9970,3798.54L7270,3798.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         <g transform="matrix(1,0,0,1,0,400)">
-                            <path d="M9970,3798.54L7270,3798.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M9970,3798.54L7270,3798.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,0,800)">
-                            <path d="M9970,3798.54L7270,3798.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M9970,3798.54L7270,3798.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
-                        <path d="M7270,3898.54L9970,3898.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                        <path d="M7270,3898.54L9970,3898.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         <g transform="matrix(1,0,0,1,0,400)">
-                            <path d="M7270,3898.54L9970,3898.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3898.54L9970,3898.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,0,800)">
-                            <path d="M7270,3898.54L9970,3898.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3898.54L9970,3898.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
-                        <path d="M7270,3998.54L9970,3998.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                        <path d="M7270,3998.54L9970,3998.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         <g transform="matrix(1,0,0,1,0,400)">
-                            <path d="M7270,3998.54L9970,3998.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3998.54L9970,3998.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,0,800)">
-                            <path d="M7270,3998.54L9970,3998.54" style="fill:none;stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:rgb(179,179,179);"/>
+                            <path d="M7270,3998.54L9970,3998.54" style="fill:none;stroke-width:1.02px;stroke-miterlimit:1.41421;stroke-dasharray:10.19,44.82,2.04,44.82;stroke-dashoffset:5.09;stroke:black;"/>
                         </g>
                     </g>
-                    <g id="top labels" transform="matrix(1,0,0,1,-200,-400)">
+                    <g id="top labels" transform="matrix(1,0,0,1,20609.5,906.346)">
                         <g transform="matrix(1,0,0,1.25,1.81899e-12,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,500,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,1000,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,1500,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,100,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,600,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,1100,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,1600,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,200,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,700,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,1200,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                        </g>
-                        <g transform="matrix(1,0,0,1.25,1700,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,300,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,800,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,1300,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                        </g>
-                        <g transform="matrix(1,0,0,1.25,1800,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,400,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,900,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1.25,1400,-999.636)">
-                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7570" y="3958.54" width="100" height="40" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,-1.11608,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">A</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">A</text>
                         </g>
                         <g transform="matrix(1,0,0,1,498.884,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">F</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">F</text>
                         </g>
                         <g transform="matrix(1,0,0,1,998.884,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">K</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">K</text>
                         </g>
                         <g transform="matrix(1,0,0,1,1498.88,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">P</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">P</text>
                         </g>
                         <g transform="matrix(1,0,0,1,98.8839,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">B</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">B</text>
                         </g>
                         <g transform="matrix(1,0,0,1,598.884,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">G</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">G</text>
                         </g>
                         <g transform="matrix(1,0,0,1,1098.88,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">L</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">L</text>
                         </g>
                         <g transform="matrix(1,0,0,1,1598.88,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">Q</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">Q</text>
                         </g>
                         <g transform="matrix(1,0,0,1,198.884,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">C</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">C</text>
                         </g>
                         <g transform="matrix(1,0,0,1,698.884,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">H</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">H</text>
                         </g>
                         <g transform="matrix(1,0,0,1,1198.88,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">M</text>
-                        </g>
-                        <g transform="matrix(1,0,0,1,1698.88,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">R</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">M</text>
                         </g>
                         <g transform="matrix(1,0,0,1,298.884,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">D</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">D</text>
                         </g>
                         <g transform="matrix(1,0,0,1,805.889,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">I</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">I</text>
                         </g>
                         <g transform="matrix(1,0,0,1,1298.88,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">N</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">N</text>
                         </g>
                         <g transform="matrix(1,0,0,1,398.884,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">E</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">E</text>
                         </g>
                         <g transform="matrix(1,0,0,1,898.884,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">J</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">J</text>
                         </g>
                         <g transform="matrix(1,0,0,1,1398.88,18.83)">
-                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;">O</text>
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">O</text>
                         </g>
                     </g>
-                    <g id="side labels" transform="matrix(1,0,0,1,-300,-300)">
+                    <g id="top numbers" transform="matrix(1,0,0,1,20714.3,863.029)">
+                        <g transform="matrix(1,0,0,1,-1.11608,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">1</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-99.4462,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">0</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,498.884,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">6</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,994.231,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">1<tspan x="7618.77px " y="3968.79px ">1</tspan></text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,1494.99,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">16</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,98.8839,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">2</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,599.431,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">7</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,1094.99,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">12</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,198.884,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">3</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,699.431,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">8</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,1194.99,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">13</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,298.884,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">4</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,799.431,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">9</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,1294.99,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">14</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,398.884,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">5</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,894.992,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">10</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,1393.87,18.83)">
+                            <text x="7609.13px" y="3968.79px" style="font-family:'ArialMT';font-size:20px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">15</text>
+                        </g>
+                    </g>
+                    <g id="side labels" transform="matrix(1,0,0,1,20559.5,1056.35)">
                         <g transform="matrix(1.25,0,0,1,-1892.5,2.84217e-13)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(1.25,0,0,1,-1892.5,-100)">
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,400)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,800)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,100)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,500)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,900)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,200)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,600)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,1000)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,300)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1.25,0,0,1,-1892.5,700)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                        </g>
-                        <g transform="matrix(1.25,0,0,1,-1892.5,1100)">
-                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                            <rect x="7530" y="3998.54" width="40" height="100" style="fill:rgb(128,128,128);stroke-width:0.88px;stroke-miterlimit:1.41421;stroke:black;"/>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,20.7381)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">1</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">1</text>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-17.0146,-79.2619)">
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">0</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,420.738)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">5</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">5</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,820.738)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">9</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">9</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,120.738)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">2</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">2</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,520.738)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">6</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">6</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,920.738)">
-                            <text x="7541.99px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">10</text>
+                            <text x="7541.99px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">10</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,220.738)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">3</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">3</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,620.738)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">7</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">7</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,1020.74)">
-                            <text x="7543.32px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">1<tspan x="7560.67px " y="4040.18px ">1</tspan></text>
+                            <text x="7543.32px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">1<tspan x="7560.67px " y="4040.18px ">1</tspan></text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,320.738)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">4</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">4</text>
                         </g>
                         <g transform="matrix(1,0,0,1,-17.0146,720.738)">
-                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;">8</text>
+                            <text x="7552px" y="4040.18px" style="font-family:'ArialMT';font-size:36px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">8</text>
                         </g>
                     </g>
-                    <g transform="matrix(1,0,0,1,-200,-300)">
-                        <rect x="7470" y="3898.54" width="100" height="100" style="fill:rgb(128,128,128);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                    <rect x="28029.5" y="4804.89" width="100" height="100" style="fill:none;stroke-width:1px;stroke:black;"/>
+                    <g transform="matrix(1,0,0,1,20609.5,956.346)">
+                        <rect x="7470" y="3898.54" width="100" height="100" style="fill:rgb(128,128,128);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
                     </g>
-                    <g transform="matrix(1,0,0,1,-178.551,-269.058)">
-                        <text x="7454.1px" y="3943.44px" style="font-family:'ArialMT';font-size:64px;fill:black;">1m</text>
-                    </g>
-                </g>
-                <g transform="matrix(0.636816,0,0,0.781679,-2496.32,-2529.78)">
-                    <path d="M4320,3816.34L4520,3816.34C4587.89,3582.16 4728.54,3443.94 4970,3436.34C5178.77,3444.81 5350.72,3553.24 5420,3816.34L5590,3816.34" style="fill:none;stroke-width:4.5px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                </g>
-                <g transform="matrix(0.636816,0,0,0.781679,-2496.32,-2529.78)">
-                    <path d="M4320,3956.34L4520,3956.34C4584.09,4200.07 4734.24,4326.53 4970,4336.34C5191.83,4325.22 5349.98,4211.67 5420,3956.34L5590,3956.34" style="fill:none;stroke-width:4.5px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                </g>
-                <g transform="matrix(3.80052e-17,0.769706,-0.620673,4.71309e-17,3184.8,-262.932)">
-                    <path d="M1001.71,4926L1001.71,4066.91C1001.71,4066.91 1073.7,3644.83 1225,3746C1467.48,3908.14 1411.27,4237.48 1226,4381C1133.02,4453.03 1001.71,4037.91 1001.71,4037.91C1001.71,4037.91 881.871,3633.85 772,3740C577.332,3928.08 534.967,4213.05 749,4368C862.888,4450.45 1001.71,4095.91 1001.71,4095.91L1001.71,3210" style="fill:none;stroke-width:26.54px;stroke-linejoin:round;stroke:rgb(20,169,12);stroke-opacity:0.698678;"/>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,1.13121e-15,7.81679)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                    <g transform="matrix(1,0,0,1,20631,987.289)">
+                        <text x="7454.1px" y="3943.44px" style="font-family:'ArialMT';font-size:64px;fill:black;stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;">1m</text>
                     </g>
                 </g>
-                <g transform="matrix(2.08955,0,0,1.98473,203.781,203.237)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                <g transform="matrix(4.24392e-17,0.775627,-0.693084,4.74935e-17,3414.13,-264.954)">
+                    <path d="M1001.71,4710.54C1001.71,4621.73 1001.71,4690.94 1001.71,4515.6C1001.71,4115.85 1068.58,3555.88 1225,3746C1410.33,3971.25 1432.9,4271.41 1226,4381C1086.32,4454.99 952.09,3560.62 772,3740C580.255,3930.99 568.101,4175.4 749,4368C939.075,4570.37 1013.9,4064.74 1001.71,3633.23C996.399,3445.1 1001.71,3305.94 1001.71,3210" style="fill:none;stroke-width:8.17px;stroke-dasharray:24.5,49,0,0;stroke:rgb(20,169,12);stroke-opacity:0.698678;"/>
+                </g>
+                <g transform="matrix(-1.14355e-16,-0.787692,0.711111,-1.26671e-16,-3313.7,22960.9)">
+                    <g transform="matrix(1,0,0,1,-90,-100)">
+                        <rect x="28539.5" y="4952.64" width="100" height="4.5" style="fill:black;"/>
                     </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                    <g transform="matrix(1,0,0,1,-90,-100)">
+                        <rect x="28587.3" y="4904.89" width="4.5" height="50" style="fill:black;"/>
                     </g>
                 </g>
-                <g transform="matrix(2.08955,0,0,1.98473,-203.781,203.237)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                <g id="Layer12" transform="matrix(0.711111,0,0,0.787692,-3256.89,-2431.09)">
+                    <g transform="matrix(3.28125,0,0,2.53906,4380,3096.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
                     </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                    <g transform="matrix(3.28125,0,0,2.53906,4700,3346.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,4060,3346.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,4380,3476.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,4380,2956.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,4380,2576.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,5000,2956.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,4830,2956.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,4700,2706.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,4060,2706.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,4830,3096.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,5000,3096.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,3930,2956.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,3730,2956.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,3730,3096.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(3.28125,0,0,2.53906,3930,3096.34)">
+                        <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
+                            <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
+                        <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
+                            <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-miterlimit:1.41421;stroke:black;"/>
+                        </g>
                     </g>
                 </g>
-                <g transform="matrix(2.08955,0,0,1.98473,-3.2692e-13,304.855)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                <g id="Layer13" transform="matrix(0.711111,0,0,0.787692,-3256.89,-2431.09)">
+                    <g transform="matrix(1,0,0,1,460,-150)">
+                        <path d="M4320,3816.34L4520,3816.34C4587.89,3582.16 4728.54,3443.94 4970,3436.34C5178.77,3444.81 5350.72,3553.24 5420,3816.34L5590,3816.34" style="fill:none;stroke-width:4.5px;stroke-miterlimit:1.41421;stroke:black;"/>
                     </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,-3.2692e-13,-101.618)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,1.13121e-15,-398.656)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,394.826,-101.618)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,286.567,-101.618)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,203.781,-297.038)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,-203.781,-297.038)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,286.567,7.81679)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,394.826,7.81679)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,-286.567,-101.618)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,-413.93,-101.618)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,-413.93,7.81679)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                </g>
-                <g transform="matrix(2.08955,0,0,1.98473,-286.567,7.81679)">
-                    <g transform="matrix(0.304762,0,0,0.393846,-1194.67,-1274.62)">
-                        <circle cx="4970" cy="3946.34" r="20" style="fill:rgb(252,209,209);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
-                    </g>
-                    <g transform="matrix(0.304762,0,0,0.393846,-1191.62,-1302.19)">
-                        <circle cx="4960" cy="4016.34" r="10" style="fill:rgb(252,46,48);stroke-width:1px;stroke-linejoin:round;stroke-miterlimit:1.41421;stroke:black;"/>
+                    <g transform="matrix(1,0,0,1,460,-150)">
+                        <path d="M4320,3956.34L4520,3956.34C4584.09,4200.07 4734.24,4326.53 4970,4336.34C5191.83,4325.22 5349.98,4211.67 5420,3956.34L5590,3956.34" style="fill:none;stroke-width:4.5px;stroke-miterlimit:1.41421;stroke:black;"/>
                     </g>
                 </g>
             </g>
