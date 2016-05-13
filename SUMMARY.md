@@ -25,6 +25,7 @@
     * [Intersection](advanced/intersection.md)
     * [Little General](advanced/little-general.md)
     * [Maze](advanced/maze.md)
+    * [Pitch Fork](advanced/pitch-fork.md)
     * [Serpentine](advanced/serpentine.md)
     * [Sickle](advanced/sickle.md)
     * [Snowman](advanced/snowman.md)
@@ -33,4 +34,9 @@
     * [W](advanced/w.md)
 * Combo
     * [Ohio Test](combo/ohio-test.md)
+* Gymhana
+    * [Cobweb 2015](gymhana/cobweb.md)
+    * [Eraser](gymhana/eraser.md)
+    * [Pita](gymhana/pita.md)
+    * [Siso](gymhana/siso.md)
 * [References](info/references.md)
