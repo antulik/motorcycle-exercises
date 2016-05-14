@@ -2,4 +2,4 @@
 
 please verify name, called **Square** for now
 
-![](../images/gymhana square.svg)
+![](../images/gymkhana square.svg)

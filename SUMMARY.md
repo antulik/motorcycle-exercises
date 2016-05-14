@@ -34,13 +34,13 @@
     * [W](advanced/w.md)
 * Combo
     * [Ohio Test](combo/ohio-test.md)
-* Gymhana
-    * [Anchor](gymhana/anchor.md)
-    * [Cobweb 2015](gymhana/cobweb.md)
-    * [Eraser](gymhana/eraser.md)
-    * [Grapevine](gymhana/grapevine.md)
-    * [Hitch](gymhana/hitch.md)
-    * [Pita](gymhana/pita.md)
-    * [Siso](gymhana/siso.md)
-    * [Square](gymhana/square.md)
+* Gymkhana
+    * [Anchor](gymkhana/anchor.md)
+    * [Cobweb 2015](gymkhana/cobweb.md)
+    * [Eraser](gymkhana/eraser.md)
+    * [Grapevine](gymkhana/grapevine.md)
+    * [Hitch](gymkhana/hitch.md)
+    * [Pita](gymkhana/pita.md)
+    * [Siso](gymkhana/siso.md)
+    * [Square](gymkhana/square.md)
 * [References](info/references.md)
