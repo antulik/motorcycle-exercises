@@ -35,8 +35,12 @@
 * Combo
     * [Ohio Test](combo/ohio-test.md)
 * Gymhana
+    * [Anchor](gymhana/anchor.md)
     * [Cobweb 2015](gymhana/cobweb.md)
     * [Eraser](gymhana/eraser.md)
+    * [Grapevine](gymhana/grapevine.md)
+    * [Hitch](gymhana/hitch.md)
     * [Pita](gymhana/pita.md)
     * [Siso](gymhana/siso.md)
+    * [Square](gymhana/square.md)
 * [References](info/references.md)
