@@ -43,4 +43,5 @@
     * [Pita](gymkhana/pita.md)
     * [Siso](gymkhana/siso.md)
     * [Square](gymkhana/square.md)
+    * [World Championship](gymkhana/wc.md)
 * [References](info/references.md)
